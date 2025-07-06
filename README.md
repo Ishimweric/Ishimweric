@@ -3,39 +3,39 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/Tool-Git-orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Code‑React‑18‑Vite-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Style‑TailwindCSS‑38B2AC?style=for-the-badge&logo=tailwind‑css" />
+  <img src="https://img.shields.io/badge/Tool‑Git‑Figma‑VS Code‑grey?style=for-the-badge&logo=git" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌱 I'm currently learning **React, Backend Development (Node, Express, MongoDB)**
-- 💼 Full-Stack Developer in training at **DirectED Bootcamp**
-- 🔧 I love building user-friendly, responsive interfaces with **Tailwind, vanilla css, JavaScript, and React**
-- 🌍 Based in **Rwanda**, open to local and global opportunities
+- 🌱 Currently building strong foundations in **React, Node.js, Express, MongoDB**
+- 💼 Full-Stack Developer in training through **DirectED Bootcamp**
+- 🔧 I design and code responsive usability-first UI with **Tailwind, vanilla CSS, JS, React**
+- 🌍 Based in **Rwanda**, open to both local and global opportunities
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Frontend | Backend | Tools & DevOps |
-|---------|---------|----------------|
+| Frontend                      | Backend                   | Tools & Workflow         |
+|-----------------------------|---------------------------|--------------------------|
 | HTML5, CSS3, Tailwind, JavaScript, React | Node.js (learning), Express (soon) | Git, GitHub, Vite, Render |
-| Responsive UI Design, Chrome Extensions | MongoDB (learning soon) | VS Code, Figma, Notion |
+| Responsive UI, Chrome Extensions | MongoDB (learning soon) | VS Code, Figma, Notion |
 
 ---
 
 ### 🚀 Projects Highlight
 
-- 🎲 **Blackjack Game** – Interactive game built with HTML, JS, Tailwind
-- 🧮 **Calculator App** – Clean UI with Tailwind, responsive logic in JS
-- 💾 **Chrome Extension** – Save web URLs locally with custom UI
-- 📋 **Dynamic Review System** – Built in team module with Git collaboration
+- 🍽️ **ArtisanBlend Restaurant Website** — A visually-rich responsive landing page with menu, booking form, and Tailwind-powered layout
+- 🎨 **Meme Generator** — Create your own memes: live text-over-image support, download functionality, and clean UI
+- 🌱 **Luntra Learning Platform** — A multi-section demo website built with React, dynamic chatbot, interactive product carousel, and dark/light mode
+- 🎲 **Blackjack Game** — Interactive casino-style game built using vanilla JS, Tailwind, with clean logic and state handling
 
-> More in my pinned repositories!
+> More details in my pinned repos!
 
 ---
 
@@ -43,18 +43,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishimweric&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishimweric&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishimweric&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 📫 Get in Touch
 
 - 📧 Email: **ishimwericdev@gmail.com**
 - 💼 LinkedIn: [@Ishimweric](https://www.linkedin.com/in/Ishimweric/)
-- 🌐 Portfolio: *Coming soon!*
+- 🌐 Portfolio: *In progress — coming soon!*
 
 ---
 
 > “Stay curious. Stay consistent. Build with purpose.” — Eric
-
