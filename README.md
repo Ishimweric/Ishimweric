@@ -4,8 +4,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Code‑React‑18‑Vite-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Style‑TailwindCSS‑38B2AC?style=for-the-badge&logo=tailwind‑css" />
-  <img src="https://img.shields.io/badge/Tool‑Git‑Figma‑VS Code‑grey?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Style‑TailwindCSS‑38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Tool‑Git‑orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Design-Figma-red?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code" />
 </p>
 
 ---
@@ -50,9 +52,9 @@
 
 ### 📫 Get in Touch
 
-- 📧 Email: **ishimwericdev@gmail.com**
+- 📧 Email: **ishimwee299@gmail.com**
 - 💼 LinkedIn: [@Ishimwe Eric](www.linkedin.com/in/ishimwe-eric-4796102aa)
-- 🌐 Portfolio: *In progress — coming soon!*
+- 🌐 Portfolio: *Coming soon!*
 
 ---
 
