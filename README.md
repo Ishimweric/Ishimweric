@@ -14,9 +14,8 @@
 
 - 🌱 I'm currently learning **React, Backend Development (Node, Express, MongoDB)**
 - 💼 Full-Stack Developer in training at **DirectED Bootcamp**
-- 🔧 I love building user-friendly, responsive interfaces with **Tailwind, JavaScript, and React**
-- 🌍 Based in **Rwanda**, open to global remote opportunities
-- ✍️ I’m also building a personal **UI component library** for rapid development
+- 🔧 I love building user-friendly, responsive interfaces with **Tailwind, vanilla css, JavaScript, and React**
+- 🌍 Based in **Rwanda**, open to local and global opportunities
 
 ---
 
