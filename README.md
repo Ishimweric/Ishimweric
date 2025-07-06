@@ -51,7 +51,7 @@
 ### 📫 Get in Touch
 
 - 📧 Email: **ishimwericdev@gmail.com**
-- 💼 LinkedIn: [@Ishimweric](https://www.linkedin.com/in/Ishimweric/)
+- 💼 LinkedIn: [@Ishimwe Eric](www.linkedin.com/in/ishimwe-eric-4796102aa)
 - 🌐 Portfolio: *In progress — coming soon!*
 
 ---
