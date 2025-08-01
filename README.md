@@ -37,12 +37,42 @@
 
 ---
 
-### 🚀 Projects Highlight
+## 🚀 Projects Highlight
 
-- 🍽 *ArtisanBlend Restaurant Website* — A visually-rich responsive landing page with menu, booking form, and Tailwind-powered layout
-- 🎨 *Meme Generator* — Create your own memes: live text-over-image support, download functionality, and clean UI
-- 🌱 *Luntra Learning Platform* — A multi-section demo website built with React, dynamic chatbot, interactive product carousel, and dark/light mode
-- 🎲 *Blackjack Game* — Interactive casino-style game built using vanilla JS, Tailwind, with clean logic and state handling
+### 🧠 Thinkboard (MERN Stack Note-Taking App)
+A minimalist, full-stack note-taking application built with the **MERN stack**.  
+Features:
+- Secure user authentication
+- Efficient note management (CRUD)
+- API rate limiting via Upstash Redis  
+Built with **React**, **Tailwind CSS**, and **DaisyUI** for a responsive, intuitive user experience.
+
+---
+
+### 🎮 Vexel (Interactive Quiz Application)
+A dynamic and responsive quiz app developed with **React**, **Tailwind CSS**, and **Vite**.  
+Features:
+- Engaging interactive questions
+- Real-time scoring
+- Clean, modern user interface
+
+---
+
+### 🍽 ArtisanBlend Restaurant Website
+A visually-rich and responsive landing page for a restaurant, built collaboratively with **React**, **HTML**, **CSS**, and **JavaScript**.  
+Features:
+- Dynamic menu
+- Booking form
+- Clean, user-friendly interface powered by **Tailwind CSS**
+
+---
+
+### 📝 Notes-App (Full-Stack CRUD Application)
+A foundational full-stack application demonstrating core **CRUD** operations for notes.  
+Tech stack:
+- **Node.js**, **Express.js**, **MongoDB**
+- **EJS** for server-side rendering
+
 
 > More details in my pinned repos!
 
