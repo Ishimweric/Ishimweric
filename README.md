@@ -67,13 +67,6 @@ Features:
 
 ---
 
-### 📝 Notes-App (Full-Stack CRUD Application)
-A foundational full-stack application demonstrating core **CRUD** operations for notes.  
-Tech stack:
-- **Node.js**, **Express.js**, **MongoDB**
-- **EJS** for server-side rendering
-
-
 > More details in my pinned repos!
 
 ---
