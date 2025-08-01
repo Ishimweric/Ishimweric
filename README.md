@@ -60,7 +60,7 @@
 ### 📫 Get in Touch
 
 - 📧 Email: *ishimwee299@gmail.com*
-- 💼 LinkedIn: [Ishimwe Eric](https://www.linkedin.com/in/ishimwe-eric-4796102aa)
+- 💼 LinkedIn: [Ishimwe Eric](https://www.linkedin.com/in/ishimweric/)
 - 🌐 Portfolio: Coming soon!
 
 ---
