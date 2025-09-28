@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishimwe Eric</h1>
-<h3 align="center">Full-Stack Developer | DirectED Scholar | Lifelong Learner</h3>
+<h3 align="center">Full-Stack Developer | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
